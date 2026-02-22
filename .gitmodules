@@ -1,0 +1,3 @@
+[submodule "01-hello-simready"]
+	path = 01-hello-simready
+	url = https://github.com/SunWooChan/01-hello-simready.git
