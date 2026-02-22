@@ -26,4 +26,4 @@ It documents the learning journey, tackling each step from a beginner's perspect
 
 ## About
 
-This project was created by **Woochan Sun**.
+This project was created by **Woochan Sun** in [Humanoid Robot LAB](https://modulabs.co.kr/labs/656).
